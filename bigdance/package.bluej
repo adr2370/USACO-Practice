@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=39
+package.editor.y=84
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=493
+target1.editor.width=610
+target1.editor.x=369
+target1.editor.y=57
+target1.height=50
+target1.name=bigdance
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=60
+target1.y=10

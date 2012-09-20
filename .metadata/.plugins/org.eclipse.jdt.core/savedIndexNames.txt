@@ -1,0 +1,4 @@
+INDEX VERSION 1.125+/Users/alexdr/Desktop/USACO/.metadata/.plugins/org.eclipse.jdt.core
+2293455564.index
+4043959229.index
+790664647.index

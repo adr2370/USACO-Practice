@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment1.params=curr
+comment1.target=boolean\ works(int[])
+comment2.params=curr
+comment2.target=boolean\ duplicates(int[])
+comment3.params=x
+comment3.target=int[]\ toDigits(int)
+numComments=4
